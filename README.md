@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hayuraaa&label=Profile%20views&color=0e75b6&style=flat" alt="hayuraaa" /> </p>
 
-- 👯 I’m looking to collaborate on [Bilik Becakap](https://bilikbercakap.com/)
-
-- 👨‍💻 All of my projects are available at [https://harisyr-portfolio.netlify.app/](https://harisyr-portfolio.netlify.app/)
-
 - 📫 How to reach me **yunandaharis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
